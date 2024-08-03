@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Improvements to Translation Reviewer's Workflow at Oppia",
+    "image": "https://imgur.com/LFQdzQS.png",
+    "description": "Google Summer of Code'23 Project with Oppia to improve workflow of Translation Reviewers at Oppia by introducing serveral full stack features.",
+    "tags": ["Angular", "Python", "TypeScript", "Apache Beam Jobs", "Cron Jobs", "REST APIs"],
+    "source_code": "https://medium.com/@ash.me.cse/my-google-summer-of-code-2023-journey-with-oppia-ee93a6fc312d",
+    "demo": "https://summerofcode.withgoogle.com/archive/2023/projects/KyecKJP2"
+  },
+  {
+    "id": 2,
+    "name": "Tutorials to help contributors tackle issues in new domains",
+    "image": "https://imgur.com/a/hsqAEch.png",
+    "description": "Contractual Project to write several tutorials covering different tech domains used at Oppia to help new contributors get used to them.",
+    "tags": ["Angular", "Python", "TypeScript", "Apache Beam Jobs", "Cron Jobs", "REST APIs", "Debugging", "Tutorials", "Github Pages"],
+    "source_code": "https://docs.google.com/document/d/1xo4eHclW7vacLuabkrOroKPpocKAuNcA3QI4U6Yo0Ko/edit",
+    "demo": "https://github.com/oppia/oppia/wiki/Making-a-simple-UI-change"
+  },
+  {
+    "id": 3,
+    "name": "Paint Application - Android App",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Android Application where users can unleash their creativity using a brush on the Canvas. The Application also allows sharing and saving of the Art Piece created.",
+    "tags": ["Android", "Android Studio", "Kotlin", "OOPS", "Firebase", "Coroutines"],
+    "source_code": "https://github.com/Ash-2k3/Basic-Painting-App",
+    "demo": ""
+  }
+]
